@@ -5,9 +5,9 @@
  * гнев :exploding_head:
  * злость :pout: 
  * умиротворение
- * позитив  :wink2:
+ * позитив :star:
 * восхищение
- * любовь  :kissing_face: 
+ * любовь :couplekiss:
  
 
  ![Лес](https://miro.medium.com/max/1400/1*WmDm9M326xfYEnRYn9GmxA.jpeg)

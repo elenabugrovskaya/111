@@ -4,3 +4,5 @@
  * счастье :innocent:
  * гнев :exploding_head:
  * злость :pout: 
+ * любовь 
+ * позитив
